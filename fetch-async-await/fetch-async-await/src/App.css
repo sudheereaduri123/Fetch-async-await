@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.productpic{
+  width: 250px; 
+  height: 250px; 
+  object-fit: contain;
+}
+
+
+.productsContainer{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+
+.productDiv{
+  border: 1px solid gold;
+  width: 400px;
+  height: 400px;
+
+}
